@@ -1,4 +1,5 @@
 # Build files
 src/obj
 src/bin
-src/*.cbp
+src/del.cbp
+src/del.layout
